@@ -9,7 +9,7 @@ public class Book {
 
 
     public Book() {
-            this(null, null, 0, 0.0, 0, 0);
+
         }
 
     public Book(String title, String author, int publicationYear, double price, int pageQuantity, int QuantityInStock) {
